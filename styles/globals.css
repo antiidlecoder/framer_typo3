@@ -24,6 +24,13 @@ a {
   display: none;
 }
 
+.innerhtml p {
+  @apply mb-4
+}
+
+/*
+
+
 * {
   cursor: none;
 }
@@ -39,3 +46,4 @@ a {
   mix-blend-mode: difference;
   background-color: white;
 }
+*/
